@@ -1,0 +1,14 @@
+C:\Users\Davion\Documents\sln\EventHandlerDemo\bin\Debug\net7.0\EventHandlerDemo.exe
+C:\Users\Davion\Documents\sln\EventHandlerDemo\bin\Debug\net7.0\EventHandlerDemo.deps.json
+C:\Users\Davion\Documents\sln\EventHandlerDemo\bin\Debug\net7.0\EventHandlerDemo.runtimeconfig.json
+C:\Users\Davion\Documents\sln\EventHandlerDemo\bin\Debug\net7.0\EventHandlerDemo.dll
+C:\Users\Davion\Documents\sln\EventHandlerDemo\bin\Debug\net7.0\EventHandlerDemo.pdb
+C:\Users\Davion\Documents\sln\EventHandlerDemo\obj\Debug\net7.0\EventHandlerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davion\Documents\sln\EventHandlerDemo\obj\Debug\net7.0\EventHandlerDemo.AssemblyInfoInputs.cache
+C:\Users\Davion\Documents\sln\EventHandlerDemo\obj\Debug\net7.0\EventHandlerDemo.AssemblyInfo.cs
+C:\Users\Davion\Documents\sln\EventHandlerDemo\obj\Debug\net7.0\EventHandlerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Davion\Documents\sln\EventHandlerDemo\obj\Debug\net7.0\EventHandlerDemo.dll
+C:\Users\Davion\Documents\sln\EventHandlerDemo\obj\Debug\net7.0\refint\EventHandlerDemo.dll
+C:\Users\Davion\Documents\sln\EventHandlerDemo\obj\Debug\net7.0\EventHandlerDemo.pdb
+C:\Users\Davion\Documents\sln\EventHandlerDemo\obj\Debug\net7.0\EventHandlerDemo.genruntimeconfig.cache
+C:\Users\Davion\Documents\sln\EventHandlerDemo\obj\Debug\net7.0\ref\EventHandlerDemo.dll
